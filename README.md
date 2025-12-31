@@ -2,6 +2,21 @@
 
 An advanced multi-timeframe cryptocurrency trading bot with Fibonacci targets, ATR-based trailing stops, and intelligent position management.
 
+## 🇺🇸 USA Regulatory Compliant
+
+**MADE FOR US TRADERS - FULLY COMPLIANT WITH US REGULATIONS**
+
+This bot is specifically designed to meet US regulatory requirements:
+- ✅ **SPOT TRADING ONLY** (no futures, no derivatives)
+- ✅ **LONG POSITIONS ONLY** (no shorting)
+- ✅ **NO LEVERAGE** (100% compliant with US regulations)
+- ✅ **US EXCHANGES ONLY** (Binance US)
+- ✅ **Regulatory Compliant** for US retail traders
+
+**Hard to find USA-compliant multi-timeframe bots?** This is one of the few automated bots built specifically for US traders.
+
+---
+
 ## Overview
 
 GG Moonshot is a sophisticated trading system that simultaneously monitors **8 different timeframes** (1m, 5m, 15m, 30m, 1h, 2h, 4h, 1d) to identify optimal entry and exit points across multiple cryptocurrency pairs on Binance.US.
